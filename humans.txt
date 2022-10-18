@@ -4,10 +4,11 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Lellis		Some		Another
 
 # THANKS
 
-    <name>
+    <name>[All]
 
 # TECHNOLOGY COLOPHON
 
